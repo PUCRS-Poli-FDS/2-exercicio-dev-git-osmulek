@@ -1,5 +1,4 @@
 
-    package marsrover;
     public class Rover {
     	public static final Integer N = 1;
     	public static final Integer E = 2;
@@ -61,7 +60,7 @@
     		facing = (facing - 1) < N ? W : facing - 1;
     	}
     	private void turnRight() {
-    		facing = (facing   1) > W ? N : facing   1;
+    		facing = (facing + 1) > W ? N : facing  +  1;
     	}
     	public static void main(String args[]) {
     		Rover rover = new Rover();
