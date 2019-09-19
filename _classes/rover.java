@@ -1,5 +1,5 @@
 
-    public class Rover {
+    public class rover {
     	public static final Integer N = 1;
     	public static final Integer E = 2;
     	public static final Integer S = 3;
@@ -7,7 +7,7 @@
     	Integer x = 0;
     	Integer y = 0;
     	Integer facing = N;
-    	public Rover() {
+    	public rover() {
 			
     	}
     	public void setPosition(Integer x, Integer y, Integer facing) {
@@ -63,7 +63,7 @@
     		facing = (facing + 1) > W ? N : facing  +  1;
     	}
     	public static void main(String args[]) {
-    		Rover rover = new Rover();
+    		rover rover = new rover();
     		rover.setPosition(1, 2, N);
     		rover.process("LMLMLMLMM");
     		rover.printPosition(); // prints 1 3 N
