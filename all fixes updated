@@ -1,0 +1,53 @@
+commit a7c74180f497feb5a86a2fad6ab0577da9d4e043
+Author: 12107429 <cabreira92@gmail.com>
+Date:   Thu Sep 19 20:14:09 2019 -0300
+
+    fix(rover): name of class changed
+
+commit 8dedae664ab394d25655df24a5cb6e106c4f64e8
+Author: lucasstd <lucas.staudt@acad.pucrs.br>
+Date:   Tue Sep 10 20:51:15 2019 -0300
+
+    fix
+
+commit 133a1daca69bf1cf8d4e920bd56282b81388e892
+Author: 12107429 <12107429@facin.portoalegre.pucrsnet.br>
+Date:   Tue Sep 10 20:43:30 2019 -0300
+
+    changing directory
+
+commit e8a1c1b0ab0e078763476f11f7be20e47e3ef3a1
+Author: 12107429 <12107429@facin.portoalegre.pucrsnet.br>
+Date:   Tue Sep 10 20:40:43 2019 -0300
+
+    Merge dev-felipe into master
+
+commit 85abb2e706dda711f87e73c58deaa9acd8b71815
+Author: 11109498 <11109498@facin.portoalegre.pucrsnet.br>
+Date:   Tue Sep 10 20:16:13 2019 -0300
+
+    remove log
+
+commit 45432e8bb9468af9b219166af7322eef0613b6b9
+Author: Jordano Henrique Goncalves Da Silva <19111172@pucrs.br>
+Date:   Tue Aug 27 20:52:52 2019 -0300
+
+    logzada
+
+commit bb35c31b9800c51d53897c59de217065e254d280
+Author: Michael da Costa Móra <michael.c.mora@gmail.com>
+Date:   Thu Aug 22 19:47:22 2019 -0300
+
+    Update README.md
+
+commit f074e2545cfea6148efcf8b62580b88fa7da51c3
+Author: Michael da Costa Móra <michael.c.mora@gmail.com>
+Date:   Thu Aug 22 19:46:41 2019 -0300
+
+    Update README.md
+
+commit 0b1bcaf8181b516dd8f7c0a07e9b7a8124d45b86
+Author: Michael da Costa Móra <michael.c.mora@gmail.com>
+Date:   Thu Aug 22 19:46:24 2019 -0300
+
+    Initial commit
