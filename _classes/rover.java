@@ -1,4 +1,4 @@
-
+import java.lang.*;
     public class rover {
     	public static final Integer N = 1;
     	public static final Integer E = 2;
@@ -25,8 +25,10 @@
     			dir = 'S';
     		} else if (facing == 4) {
     			dir = 'W';
-    		}
-    		System.out.println(x  + " " +   y  +  " "  +  dir);
+			}
+			StringBuilder sb = new StringBuilder();
+			sb.append(x).append(" ").append(y).append(" ").append(dir);
+			System.out.println(sb);
     	}
     	public void process(String commands) {
     		for (int idx = 0; idx < commands.length(); idx++  ) {
