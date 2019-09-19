@@ -8,7 +8,7 @@
     	Integer y = 0;
     	Integer facing = N;
     	public rover() {
-			
+			System.out.println("TESTE DE CONFLITO - FELIPE ESTEVE AQUI")
     	}
     	public void setPosition(Integer x, Integer y, Integer facing) {
     		this.x = x;
