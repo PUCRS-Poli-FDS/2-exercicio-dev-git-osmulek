@@ -1,9 +1,7 @@
-//import rover.java;
 
 import org.junit.Before;
 import org.junit.Test;
 import static org.assertj.core.api.Assertions.*;
-import static org.hamcrest.CoreMatchers.containsString;
 import static org.junit.matchers.JUnitMatchers;
 
 public class RoverTest {
@@ -12,7 +10,7 @@ public class RoverTest {
     
     @Before
     public void beforeTest() {
-        rover = new rover(location, maxLocation);
+        rover = new rover();
     }
         
     @Test
